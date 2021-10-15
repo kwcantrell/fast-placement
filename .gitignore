@@ -1,3 +1,4 @@
+# ignore all sequence and tree files
 *.fastq.gv
 *.fas
 *.treefile
